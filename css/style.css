@@ -15,7 +15,16 @@ h2 {
     text-shadow: 5px, 5px, 2px;
 }
 
-div {
+p {
     font-size: 24px;
-    padding: 20px;
+    padding-top: 20px;
+}
+
+img {
+
+}
+
+div {
+    min-height: 150px;
+    padding: 25px;
 }
