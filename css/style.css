@@ -23,7 +23,9 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%
+    width: 50%;
+    height: auto;
+    width: 525px;
 }
 
 div {
@@ -41,13 +43,11 @@ div {
     text-align: left
 }
 
-#yellow {
+#yellow h2{
     background-color: #ffff00;
     text-align: right;
     color: #000000;
     text-shadow: 5px, 5px, 2px, #c7e2c7
-
-    h2
 }
 
 #green {
@@ -56,7 +56,7 @@ div {
 }
 
 footer {
-    p text-align: right;
+    text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
 
